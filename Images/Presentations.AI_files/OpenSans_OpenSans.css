@@ -1,0 +1,232 @@
+
+/* Open Sans */
+
+.OpenSans_OpenSans .h1 {
+    font-family: "Open Sans";
+    font-size: 148px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.03;
+    letter-spacing: -0.02em;
+}
+
+.OpenSans_OpenSans .h2 {
+    font-family: "Open Sans";
+    font-size: 120px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+}
+
+.OpenSans_OpenSans .h3 {
+    font-family: "Open Sans";
+    font-size: 96px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -0.02em;
+}
+
+.OpenSans_OpenSans .h4 {
+    font-family: "Open Sans";
+    font-size: 72px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: -0.02em;
+}
+
+.OpenSans_OpenSans .h5 {
+    font-family: "Open Sans";
+    font-size: 56px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.3;
+    letter-spacing: -0.02em;
+}
+
+.OpenSans_OpenSans .h6 {
+    font-family: "Open Sans";
+    font-size: 44px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.34;
+    letter-spacing: -0.02em;
+}
+
+.OpenSans_OpenSans .h7 {
+    font-family: "Open Sans";
+    font-size: 36px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.4;
+    letter-spacing: -0.02em;
+}
+
+.OpenSans_OpenSans .h8 {
+    font-family: "Open Sans";
+    font-size: 28px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: -0.02em;
+}
+
+.OpenSans_OpenSans .h9 {
+    font-family: "Open Sans";
+    font-size: 24px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.48;
+    letter-spacing: -0.02em;
+}
+
+.OpenSans_OpenSans .h10 {
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: -0.02em;
+}
+
+.OpenSans_OpenSans .h11 {
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: -0.02em;
+}
+
+.OpenSans_OpenSans .p1 {
+    font-family: "Open Sans";
+    font-size: 44px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.4;
+    letter-spacing: 0em;
+}
+
+.OpenSans_OpenSans .p2 {
+    font-family: "Open Sans";
+    font-size: 36px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: 0em;
+}
+
+.OpenSans_OpenSans .p3 {
+    font-family: "Open Sans";
+    font-size: 32px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.48;
+    letter-spacing: 0em;
+}
+
+.OpenSans_OpenSans .p4 {
+    font-family: "Open Sans";
+    font-size: 28px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: 0em;
+}
+
+.OpenSans_OpenSans .p5 {
+    font-family: "Open Sans";
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: 0em;
+}
+
+.OpenSans_OpenSans .p6 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.6;
+    letter-spacing: 0em;
+}
+
+.OpenSans_OpenSans .p7 {
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: 0em;
+}
+
+.OpenSans_OpenSans .p8 {
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.68;
+    letter-spacing: 0em;
+}
+
+.OpenSans_OpenSans .p9 {
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.72;
+    letter-spacing: 0em;
+}
+
+.OpenSans_OpenSans .n1 {
+    font-family: Archivo;
+    font-size: 54px;
+    font-weight: 700;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 0em;
+}
+
+.OpenSans_OpenSans .hl1 {
+    font-family: "Open Sans";
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: -0.02em;
+}
+
+.OpenSans_OpenSans .hl2 {
+    font-family: "Open Sans";
+    font-weight: 700;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: 1.66;
+    letter-spacing: 0em;
+}
+
+
